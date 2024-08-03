@@ -1,0 +1,200 @@
+/* body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    display: flex;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    background-image: url('path_to_profile_image.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.info h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.info h2 {
+    margin: 10px 0;
+    font-weight: normal;
+    color: #ccc;
+}
+
+.info p {
+    margin: 10px 0;
+}
+
+.signature {
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.skills-section {
+    background-color: #d2b48c;
+    padding: 20px;
+}
+
+.skills-section h2 {
+    margin-top: 0;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill {
+    width: 50%;
+    padding: 10px 0;
+}
+
+.skill span {
+    display: block;
+    font-weight: bold;
+}
+
+.skill-bar {
+    width: 100%;
+    background-color: #ccc;
+    height: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.skill-level {
+    height: 100%;
+    background-color: #333;
+} */
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    padding: 20px;
+    background-color: #7c7c7e;
+    color: white;
+}
+
+.profileImg {
+    width: 250px;
+    height: 260px;
+    background-image: url('../images/dashti.jpg');
+    background-size: contain;
+    background-position: center;
+    margin: 0 20px;
+}
+
+.information h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.information h2 {
+    margin: 10px 0;
+    font-weight: normal;
+    color: #ccc;
+}
+
+.information p {
+    margin: 10px 0;
+}
+
+.signature {
+    margin-top: 60px;
+    color: #e9e7e7;
+}
+
+.signature i {
+    font-size: 24px;
+    margin: 10px 10px;
+}
+
+.signature span {
+    cursor: pointer;
+}
+
+.skills-section {
+    background-color: rgb(227, 227, 227);
+    padding: 20px;
+}
+
+.skills-section h2 {
+    margin-top: 0;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill {
+    width: 50%;
+    padding: 14px 0;
+}
+
+.skill span {
+    display: block;
+    font-weight: bold;
+}
+
+.skill-bar {
+    width: 100%;
+    height: 10px;
+    margin-top: 5px;
+    margin-right: 20px;
+    border-radius: 5px;
+    /* overflow: hidden; */
+}
+
+#skill1 {
+    width: 98%;
+    background-color: #000;
+}
+
+#skill2 {
+    width: 100%;
+    background-color: #000;
+}
+
+#skill3 {
+    width: 30%;
+    background-color: #000;
+}
+
+#skill4,
+#skill5 {
+    width: 100%;
+    background-color: #ccc;
+}
