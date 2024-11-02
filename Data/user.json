@@ -1,0 +1,92 @@
+[
+  {
+    "genre": "drama",
+    "minRating": 7,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "action",
+    "minRating": 7,
+    "minYear": 2003,
+    "maxYear": 2020
+  },
+  {
+    "genre": "drama",
+    "minRating": 8,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "drama",
+    "minRating": 7,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "drama",
+    "minRating": 8,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "action",
+    "minRating": 8,
+    "minYear": 1990,
+    "maxYear": 2026
+  },
+  {
+    "genre": "drama",
+    "minRating": 7,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "drama",
+    "minRating": 8,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "drama",
+    "minRating": 7,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "action",
+    "minRating": 8,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "drama",
+    "minRating": 7,
+    "minYear": 1999,
+    "maxYear": 2026
+  },
+  {
+    "genre": "drama",
+    "minRating": 8,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "drama",
+    "minRating": 7,
+    "minYear": 2000,
+    "maxYear": 2020
+  },
+  {
+    "genre": "action",
+    "minRating": 7,
+    "minYear": 1999,
+    "maxYear": 2024
+  },
+  {
+    "genre": "drama",
+    "minRating": 6,
+    "minYear": 1999,
+    "maxYear": 2024
+  }
+]

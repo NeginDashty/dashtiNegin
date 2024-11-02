@@ -1,0 +1,93 @@
+[{
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genre": "Drama",
+        "rating": 9.3
+    },
+    {
+        "title": "The Godfather",
+        "year": 1972,
+        "genre": "Crime, Drama",
+        "rating": 9.2
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": "Crime, Drama",
+        "rating": 8.9
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": "Action, Crime, Drama",
+        "rating": 9
+    },
+    {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genre": "Drama, Romance",
+        "rating": 8.8
+    },
+    {
+        "title": "Parasite",
+        "year": 2019,
+        "genre": "Thriller, Drama",
+        "rating": 8.6
+    },
+    {
+        "title": "1917",
+        "year": 2019,
+        "genre": "Drama, War",
+        "rating": 8.3
+    },
+    {
+        "title": "Black Swan",
+        "year": 2010,
+        "genre": "Drama, Thriller",
+        "rating": 8
+    },
+    {
+        "title": "Midsommar",
+        "year": 2019,
+        "genre": "Horror, Drama, Mystery",
+        "rating": 7.1
+    },
+    {
+        "title": "Gone Girl",
+        "year": 2014,
+        "genre": "Drama, Thriller, Mystery",
+        "rating": 8.1
+    },
+    {
+        "title": "Her",
+        "year": 2013,
+        "genre": "Drama, Romance, Sci-Fi",
+        "rating": 8
+    },
+    {
+        "title": "Lady Bird",
+        "year": 2017,
+        "genre": "Drama, Comedy",
+        "rating": 7.4
+    },
+    {
+        "title": "Little Women",
+        "year": 2019,
+        "genre": "Drama, Romance",
+        "rating": 7.9
+    },
+    {
+        "title": "The Pianist",
+        "year": 2002,
+        "genre": "Drama, Biography, War",
+        "rating": 8.5
+    },
+    {
+        "name": "movieData.json",
+        "version": "1.0.0",
+        "type": "module",
+        "scripts": {
+            "start": "node app.js"
+        }
+    }
+]
